@@ -971,6 +971,28 @@
             "avatar_url": [
                 "https://avatars.githubusercontent.com/u/5649484?v=4"
             ]
+        },
+        {
+            "login": "manbat",
+            "name": "manbat",
+            "contributions": [
+                "code"
+            ],
+            "profile": "https://github.com/manbat",
+            "avatar_url": [
+                "https://avatars.githubusercontent.com/u/41646490?v=4"
+            ]
+        },
+        {
+            "login": "TatsatJha",
+            "name": "TatsatJha",
+            "contributions": [
+                "code"
+            ],
+            "profile": "https://github.com/TatsatJha",
+            "avatar_url": [
+                "https://avatars.githubusercontent.com/u/56853002?v=4"
+            ]
         }
     ],
     "contributorsPerLine": 7
