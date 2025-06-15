@@ -3,7 +3,7 @@
 https://us-rse.org
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-91-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-92-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## What is this?
@@ -238,6 +238,9 @@ tool to generate a contributors graphic below.
       <td align="center" valign="top" width="14.28%"><a href="nwb.org"><img src="https://avatars.githubusercontent.com/u/310197?v=4?s=100" width="100px;" alt="Ryan Ly"/><br /><sub><b>Ryan Ly</b></sub></a><br /><a href="https://github.com/USRSE/usrse.github.io/commits?author=rly" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/luet"><img src="https://avatars.githubusercontent.com/u/5649484?v=4?s=100" width="100px;" alt="David Luet"/><br /><sub><b>David Luet</b></sub></a><br /><a href="https://github.com/USRSE/usrse.github.io/commits?author=luet" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/TatsatJha"><img src="https://avatars.githubusercontent.com/u/56853002?v=4?s=100" width="100px;" alt="TatsatJha"/><br /><sub><b>TatsatJha</b></sub></a><br /><a href="https://github.com/USRSE/usrse.github.io/commits?author=TatsatJha" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/manbat"><img src="https://avatars.githubusercontent.com/u/41646490?v=4?s=100" width="100px;" alt="manbat"/><br /><sub><b>manbat</b></sub></a><br /><a href="https://github.com/USRSE/usrse.github.io/commits?author=manbat" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
