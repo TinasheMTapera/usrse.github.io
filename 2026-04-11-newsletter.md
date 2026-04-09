@@ -1,7 +1,29 @@
-# US-RSE April 2026 Newsletter
-Tinashe M. Tapera (Author & Editor), Sandra Gesing (Editor), Ian Cosden
-(Editor)
-2026-04-07
+---
+layout: post
+title: "US-RSE April 2026 Newsletter"
+subtitle: "🤳 Just Hit Me Up On Slack 🤳"
+category: newsletter
+tags: [newsletter, April]
+date: 2026-04-07 00:00:00 -0400
+author: "Tinashe M. Tapera (Author & Editor), Sandra Gesing (Editor), Ian Cosden (Editor)"
+image: "/assets/img/newsletter-202604/austin-distel-gUIJ0YszPig-unsplash.jpg"
+img_alttext: "Slack message with team communicating and collaborating in app on desktop and mobile."
+next_meeting_date: Thursday, May 14, 2026, 12:00PM EST
+sections:
+  preamble: true # done
+  headline: true # done
+  conference: true # done
+  execupdate: false # none
+  scupdate: true # yay!
+  orgmember: true # no changes, check back in june
+  communityfunds: false
+  news: true # add community call summary
+  events: true # recheck on friday
+  reads: true
+  involved: true
+  jobs: true
+
+---
 
 - [<span class="toc-section-number">1</span> 🔔 Just Slack Me, Whenever!
   🔔](#bell-just-slack-me-whenever-bell)
