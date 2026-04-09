@@ -6,12 +6,12 @@
 
 The US-RSE community is full of talented, brilliant people doing amazing work, and
 every so often, we capture the interactions and collaborations that make our community
-special on video! Here's a YouTube video of a recent Education \& Training Working Group
-meeting, where Andres Rios-Tascon presented his tutorial on 
+special on video! Here's a YouTube video of a recent **Education \& Training Working Group**
+meeting, where **Andres Rios-Tascon** presented his tutorial on 
 Continuous Integration and Continuous Delivery (CI/CD) with GitHub Actions.
 
 <div style="position: relative; width: 100%; max-width: 640px; margin: 0 auto; overflow: hidden; background: #000; aspect-ratio: 16 / 9;">
-  <img src="" 
+  <img src="https://www.youtube.com/watch?v=UPAeZg14Hto" 
        alt="YouTube Video Thumbnail" 
        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; cursor: pointer;" 
        onclick="this.outerHTML='<iframe width=\'640\' height=\'360\' src=\'https://www.youtube.com/watch?v=UPAeZg14Hto\' title=\'YouTube video player\' frameborder=\'0\' allow=\'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\' allowfullscreen style=\'position: absolute; top: 0; left: 0; width: 100%; height: 100%;\'></iframe>'">

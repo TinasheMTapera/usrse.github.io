@@ -1,4 +1,4 @@
-## 🔔  🔔
+## 🔔 Just Slack Me, Whenever! 🔔
 
 <a name="headline"></a>
 
@@ -36,7 +36,7 @@ serves as a hub for members located in and around the greater New York City area
 get-togethers and other in-person events. Participating in public channels is a great way to stay 
 informed about what's going on in the community, and importantly, it allows everyone in the Slack
 channel to follow the conversation and chime in when they have something to contribute. This helps
-us all "learn with the garage door open," increasing the accessibility of our conversations and the 
+us all, "[learn with the garage door open](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu)," increasing the accessibility of our conversations and the 
 impact of our work.
 
 <p align="center">
@@ -52,7 +52,7 @@ active regional group channel was `#rg-north-carolina`.
     <img src="/assets/img/newsletter-202604/top_channels.png" alt="Table of top channels in Slack" style="width: 750px; height: auto;"/>
 </p>
 
-And while we as RSEs may still be evaluate AI for its usefulness in our work, Slack's built-in AI
+And while we as RSEs may still be evaluating AI for its usefulness in our work, Slack's built-in AI
 summarization tool tells us that there are a wide array of conversations happening in our Slack,
 from conference planning, to project management, to hiring and funding announcements.
 
@@ -62,12 +62,14 @@ from conference planning, to project management, to hiring and funding announcem
 
 If you haven't already, we encourage you to join our Slack and get involved in the conversation. It's 
 a great way to stay informed about what's going on in the community, connect with other members, and 
-contribute to the ongoing work of US-RSE. You can get onto our Slack by joining US-RSE free, [here](https://us-rse.org/join/). See you on Slack!
+contribute to the ongoing work of US-RSE. You can get onto our Slack by joining US-RSE free, [here](https://us-rse.org/join/).
 
 PS: Just for fun, here's a table of the top 9 chatty RSEs in our Slack:
 
 <p align="center">
     <img src="/assets/img/newsletter-202604/top_members.png" alt="Table of top users in Slack" style="width: 750px; height: auto;"/>
 </p>
+
+See you on Slack!
 
 ------------
