@@ -2,11 +2,11 @@
 
 <a name="conference2026"></a>
 
-Save the date for USRSE’26: Advancing Science in the Age of AI
+Save the date for USRSE’26: **Advancing Science in the Age of AI**
 
 We’re thrilled to announce that USRSE’26 will be held at the San Jose
 Marriott from October 19-21, 2026 in San Jose, California, with the 
-theme "Advancing Science in the Age of AI".
+theme **"Advancing Science in the Age of AI".**
 
 General chairs have been appointed to lead each of the core committees 
 for USRSE’26. These chairs have begun assembling sub‑teams from the 

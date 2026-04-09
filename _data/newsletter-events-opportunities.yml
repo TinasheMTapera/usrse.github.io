@@ -27,6 +27,16 @@
 
 #--------------------
 # Events
+# - expires: 2026-04-13
+#   type: event
+#   title: National Laboratories Sustainable Scientific Software Conference: Introduction to Agile Development
+#   when: Tuesday, April 14th, 12:00 PM - 1:00 PM MDT
+#   where: My house
+#   preamble: |
+#     The NLS³C CoP fosters collaboration among individuals interacting with software repositories across the U.S. National Labs complex. Our mission is to enhance the development culture by promoting best practices, knowledge sharing, and standards that improve quality and sustainability. We empower developers, project managers, and decision-makers through valuable resources, including monthly webinars. By cultivating a network of early adopters, we aim to drive culture change and transform the software landscape within the National Labs.
+#   links: |
+#     Registration:  [Click here](https://events.gcc.teams.microsoft.com/event/6c39cfd8-2974-4fe8-8d1c-ed26a052b337@7ccb5a20-a303-498c-b0c1-29007381b574)
+
 - expires: 2026-04-01
   type: event
   title: Improving Scientific Software Conference 2026
