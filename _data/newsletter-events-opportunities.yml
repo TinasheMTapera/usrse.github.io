@@ -125,6 +125,73 @@
 
 #-------------------
 # Opportunities
+
+- expires: 2026-05-17
+  type: opportunity
+  title: RSLA26 – Call for Proposals (Research Software Latin America Conference)
+  preamble: |
+    "The call for proposals is now open for the 1st International Conference on Research Software in Latin America (RSLA26). This virtual conference, taking place August 25–28, 2026, aims to strengthen the regional research software ecosystem while connecting participants to a global network.
+
+    Submissions are welcome in Spanish, Portuguese, and English, and the conference encourages participation from anyone supporting research through software. This is also a great opportunity to practice communicating about research software in Spanish.
+
+    RSLA26 is part of Equersa, a global initiative connecting research software conferences across Latin America, Africa, Asia, and Oceania."
+  links: |
+    "Learn more: http://rs-latam.org/
+
+    Stay updated: https://www.linkedin.com/company/rs-latam/"
+
+- expires: 2026-05-07
+  type: opportunity
+  title: NCAR / NLR / NOAA Open Hackathon – Mentor Opportunity
+  preamble: |
+    Mentors are being recruited for the upcoming NCAR / NLR / NOAA Open Hackathon, taking place May 5–7, 2026, with virtual engagement beginning in the two weeks leading up to the event.
+
+    The hybrid hackathon will be hosted at NCAR's Mesa Laboratory in Boulder, Colorado, with travel support available for mentors who wish to participate in person.
+
+    Projects will span a range of advanced computing topics, including optimizing and porting Fortran GPU code to Python frameworks such as TensorFlow and PyTorch. Participating teams will work with tools and libraries such as BerkeleyGW, MPAS, CTSM, AMReX, Scalapack, and Qiskit.
+
+    This opportunity is open to both experienced and early-career mentors, with support structures in place to pair newer mentors with experienced ones.
+  links: |
+    "Apply to mentor: https://www.openhackathons.org/s/mentor (mention \"NNN Hack\")
+
+    Contact: [dhoward@ucar.edu](mailto:dhoward@ucar.edu)
+
+    Learn more about upcoming hackathons: https://www.openhackathons.org"
+    
+- expires: 2026-06-25
+  type: opportunity
+  title: PyOhio 2026 – Call for Proposals (Deadline Approaching)
+  preamble: |
+    The deadline to submit proposals for PyOhio 2026 is quickly approaching, with less than two weeks remaining. If you’ve been considering submitting a talk, now is the time to share your ideas with the community.
+
+    PyOhio is a welcoming, community-driven Python conference that encourages submissions from speakers of all experience levels.
+  links: |
+    Submit your proposal: https://pretalx.com/pyohio-2026/cfp
+
+- expires: 2026-05-13
+  type: opportunity
+  title: PyCon US 2026 Maintainers Summit – Call for Proposals
+  preamble: |
+    The Maintainers Summit is returning to PyCon US 2026 and the call for proposals is now open. This summit brings together open source maintainers to share experiences, challenges, and lessons learned.
+
+    Submissions are encouraged across several themes, including tools that impact the Python ecosystem, challenges and approaches related to generative AI in open source, security practices for maintaining projects, and personal maintainer journeys.
+
+    This is an opportunity to connect with fellow maintainers, exchange knowledge, and strengthen the open source community.
+  links: |
+    Submit a proposal: https://us.pycon.org/2026/events/maintainers-summit/
+
+    Questions can be shared through the event page or community channels.
+    
+- expires: 2026-05-01
+  type: opportunity
+  title: PEARC 2028 Conference Leadership & Steering Committee Nominations
+  preamble: |
+    The Practice and Experience in Advanced Research Computing (PEARC) Conference is seeking nominations for individuals to serve as General Co-Chairs for the 2028 conference or as Members-at-Large on the PEARC Steering Committee. Several Steering Committee positions are available for the upcoming term. This is an opportunity to help shape the future of the PEARC community and conference.
+  links: |
+    Submit nominations by May 1, 2026 via email: pearc-nominations@pearc.org
+
+    Learn more: https://pearc.acm.org/2026/04/07/pearc-seeking-nominations-for-2028-conference-co-chairs-and-steering-committee-members/
+    
 - expires: 2026-12-31
   type: opportunity
   title: "Supercomputing and the Future of AI: Watch the Full Virtual Exchange Series On-Demand! 🤖"
