@@ -37,6 +37,16 @@
 #   links: |
 #     Registration:  [Click here](https://events.gcc.teams.microsoft.com/event/6c39cfd8-2974-4fe8-8d1c-ed26a052b337@7ccb5a20-a303-498c-b0c1-29007381b574)
 
+- expires: 2026-04-16
+  type: event
+  title: UX Working Group Meeting: Making Interviewing Accessible
+  when: Tuesday, April 16th, 4:00 PM EST
+  where: Zoom
+  preamble: |
+    Our next meeting will be a joint meeting between us and #wg-diversity-equity-inclusion: Making Interviewing Accessible! Join us to level up your user interview game. Darren Butler will lead us in a hands-on workshop on accessible UX interview techniques. Hope to see you there!
+  links: |
+    Link: Join [Zoom Meeting](https://lbnl.zoom.us/j/91963632563?pwd=Rbni2b1chhxhb4jHVtmEzrEWbZuee7.1)
+
 - expires: 2026-04-01
   type: event
   title: Improving Scientific Software Conference 2026
