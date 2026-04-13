@@ -16,9 +16,11 @@ as chairs reach out for volunteers for these committee positions.
 
 **What’s next?**
 
-- **Call for Proposals:** The Call for Proposals will be announced later
-  this month. Additional upcoming milestones will be announced on the
-  official USRSE’26 site over the next few months.
+- **Call for Proposals:** Submit your work via papers, short talks, 
+BoFs, workshops, or posters. [View More](https://us-rse.org/usrse26/participate/)
+- **Call for Reviewers:** Play a key role in creating a dynamic and 
+varied technical program that will appeal to conference attendees from 
+all RSE backgrounds. [Apply to Review](https://forms.gle/hDGsK52sJFqUA2MA7)
 - **Committee Formation:** Sub‑teams will be formed shortly; be on the
   lookout for an email from a perspective committee chair with details.
 - **Stay Informed:** Regular updates will be posted at
