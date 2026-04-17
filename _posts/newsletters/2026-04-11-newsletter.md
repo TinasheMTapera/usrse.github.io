@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "US-RSE April 2026 Newsletter"
-subtitle: "Just Hit Me Up On Slack, Bro"
+subtitle: "🤳 Just Hit Me Up On Slack 🤳"
 category: newsletter
 tags: [newsletter, April]
-date: 2026-04-15 00:00:00 -0400
+date: 2026-04-13 00:00:00 -0400
 author: "Tinashe M. Tapera (Author & Editor), Sandra Gesing (Editor), Ian Cosden (Editor)"
 image: "/assets/img/newsletter-202604/austin-distel-gUIJ0YszPig-unsplash.jpg"
 img_alttext: "Slack message with team communicating and collaborating in app on desktop and mobile."
@@ -25,7 +25,8 @@ sections:
 
 ---
 
-- [<span class="toc-section-number">1</span> 🔔 🔔](#bell-bell)
+- [<span class="toc-section-number">1</span> 🔔 Just Slack Me, Whenever!
+  🔔](#bell-just-slack-me-whenever-bell)
 - [<span class="toc-section-number">2</span> 📣 Mark Your Calendars for
   USRSE’26! 📣](#mega-mark-your-calendars-for-usrse26-mega)
 - [<span class="toc-section-number">3</span> 🛞 Steering Committee
@@ -56,7 +57,8 @@ we’re going to discuss what Slack is, how it came about, and how US-RSE
 members use it to connect, grow, and make real, lasting impact beyond
 just their code editors.
 
-Question: Who do you think is the chattiest Slack user?
+> Question: Who do you think is the chattiest Slack user in US-RSE?
+> Place your bets NOW! 😉
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/img/newsletter-202604/austin-distel-gUIJ0YszPig-unsplash.jpg" alt="Slack message with team communicating and collaborating in app on desktop and mobile." style="width: 750px; height: auto;">
@@ -66,7 +68,7 @@ In this issue:
 
 ------------------------------------------------------------------------
 
-## 🔔 🔔
+## 🔔 Just Slack Me, Whenever! 🔔
 
 <a name="headline"></a>
 
@@ -116,7 +118,8 @@ they plan get-togethers and other in-person events. Participating in
 public channels is a great way to stay informed about what’s going on in
 the community, and importantly, it allows everyone in the Slack channel
 to follow the conversation and chime in when they have something to
-contribute. This helps us all “learn with the garage door open,”
+contribute. This helps us all, “[learn with the garage door
+open](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu),”
 increasing the accessibility of our conversations and the impact of our
 work.
 
@@ -136,9 +139,9 @@ the most active regional group channel was `#rg-north-carolina`.
 <img src="/assets/img/newsletter-202604/top_channels.png" alt="Table of top channels in Slack" style="width: 750px; height: auto;"/>
 </p>
 
-And while we as RSEs may still be evaluate AI for its usefulness in our
-work, Slack’s built-in AI summarization tool tells us that there are a
-wide array of conversations happening in our Slack, from conference
+And while we as RSEs may still be evaluating AI for its usefulness in
+our work, Slack’s built-in AI summarization tool tells us that there are
+a wide array of conversations happening in our Slack, from conference
 planning, to project management, to hiring and funding announcements.
 
 <p align="center">
@@ -150,7 +153,7 @@ If you haven’t already, we encourage you to join our Slack and get
 involved in the conversation. It’s a great way to stay informed about
 what’s going on in the community, connect with other members, and
 contribute to the ongoing work of US-RSE. You can get onto our Slack by
-joining US-RSE free, [here](https://us-rse.org/join/). See you on Slack!
+joining US-RSE free, [here](https://us-rse.org/join/).
 
 PS: Just for fun, here’s a table of the top 9 chatty RSEs in our Slack:
 
@@ -158,6 +161,8 @@ PS: Just for fun, here’s a table of the top 9 chatty RSEs in our Slack:
 
 <img src="/assets/img/newsletter-202604/top_members.png" alt="Table of top users in Slack" style="width: 750px; height: auto;"/>
 </p>
+
+See you on Slack!
 
 ------------------------------------------------------------------------
 
@@ -179,9 +184,13 @@ chairs reach out for volunteers for these committee positions.
 
 **What’s next?**
 
-- **Call for Proposals:** The Call for Proposals will be announced later
-  this month. Additional upcoming milestones will be announced on the
-  official USRSE’26 site over the next few months.
+- **Call for Proposals:** Submit your work via papers, short talks,
+  BoFs, workshops, or posters. [View
+  More](https://us-rse.org/usrse26/participate/)
+- **Call for Reviewers:** Play a key role in creating a dynamic and
+  varied technical program that will appeal to conference attendees from
+  all RSE backgrounds. [Apply to
+  Review](https://forms.gle/hDGsK52sJFqUA2MA7)
 - **Committee Formation:** Sub‑teams will be formed shortly; be on the
   lookout for an email from a perspective committee chair with details.
 - **Stay Informed:** Regular updates will be posted at
@@ -243,7 +252,7 @@ the Executive Director in a concentrated effort to finalize our
 recommendations for governance model updates.
 <p align="center">
 
-<img src="/assets/img/newsletter-202604/as-update-image.png" alt="Screen capture of Steering Committee meeting on Zoom" style="width: 750px; height: auto;"/>
+<img src="/assets/img/newsletter-202604/sc-update-image.png" alt="Screen capture of Steering Committee meeting on Zoom" style="width: 750px; height: auto;"/>
 </p>
 
 ------------------------------------------------------------------------
@@ -303,18 +312,13 @@ interested in becoming an organizational founding member!
 The US-RSE community is full of talented, brilliant people doing amazing
 work, and every so often, we capture the interactions and collaborations
 that make our community special on video! Here’s a YouTube video of a
-recent Education & Training Working Group meeting, where Andres
-Rios-Tascon presented his tutorial on Continuous Integration and
+recent **Education & Training Working Group** meeting, where **Andres
+Rios-Tascon** presented his tutorial on Continuous Integration and
 Continuous Delivery (CI/CD) with GitHub Actions.
 
-<div style="position: relative; width: 100%; max-width: 640px; margin: 0 auto; overflow: hidden; background: #000; aspect-ratio: 16 / 9;">
-
-<img src="" 
-       alt="YouTube Video Thumbnail" 
-       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; cursor: pointer;" 
-       onclick="this.outerHTML='<iframe width=\'640\' height=\'360\' src=\'https://www.youtube.com/watch?v=UPAeZg14Hto\' title=\'YouTube video player\' frameborder=\'0\' allow=\'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\' allowfullscreen style=\'position: absolute; top: 0; left: 0; width: 100%; height: 100%;\'></iframe>'">
-
-</div>
+<a href="https://www.youtube.com/watch?v=UPAeZg14Hto" target="_blank" rel="noopener noreferrer" style="display:block; position:relative; width:100%; max-width:640px; margin:0 auto; text-decoration:none;">
+<img src="https://img.youtube.com/vi/UPAeZg14Hto/hqdefault.jpg" alt="Watch this video on YouTube" style="display:block; width:100%; height:auto; border:0;">
+</a>
 
 > Did you know that we have a community Code of Conduct? Anyone is able
 > to view it in the `#code_of_conduct` Slack channel, under `Files`!

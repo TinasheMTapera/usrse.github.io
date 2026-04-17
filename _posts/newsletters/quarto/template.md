@@ -1,7 +1,7 @@
 # US-RSE April 2026 Newsletter
 Tinashe M. Tapera (Author & Editor), Sandra Gesing (Editor), Ian Cosden
 (Editor)
-2026-04-07
+2026-04-13
 
 - [<span class="toc-section-number">1</span> 🔔 Just Slack Me, Whenever!
   🔔](#bell-just-slack-me-whenever-bell)
@@ -35,8 +35,8 @@ we’re going to discuss what Slack is, how it came about, and how US-RSE
 members use it to connect, grow, and make real, lasting impact beyond
 just their code editors.
 
-Question: Who do you think is the chattiest Slack user in US-RSE? Place
-your bets NOW!
+> Question: Who do you think is the chattiest Slack user in US-RSE?
+> Place your bets NOW! 😉
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/img/newsletter-202604/austin-distel-gUIJ0YszPig-unsplash.jpg" alt="Slack message with team communicating and collaborating in app on desktop and mobile." style="width: 750px; height: auto;">
@@ -162,9 +162,13 @@ chairs reach out for volunteers for these committee positions.
 
 **What’s next?**
 
-- **Call for Proposals:** The Call for Proposals will be announced later
-  this month. Additional upcoming milestones will be announced on the
-  official USRSE’26 site over the next few months.
+- **Call for Proposals:** Submit your work via papers, short talks,
+  BoFs, workshops, or posters. [View
+  More](https://us-rse.org/usrse26/participate/)
+- **Call for Reviewers:** Play a key role in creating a dynamic and
+  varied technical program that will appeal to conference attendees from
+  all RSE backgrounds. [Apply to
+  Review](https://forms.gle/hDGsK52sJFqUA2MA7)
 - **Committee Formation:** Sub‑teams will be formed shortly; be on the
   lookout for an email from a perspective committee chair with details.
 - **Stay Informed:** Regular updates will be posted at
@@ -290,14 +294,9 @@ recent **Education & Training Working Group** meeting, where **Andres
 Rios-Tascon** presented his tutorial on Continuous Integration and
 Continuous Delivery (CI/CD) with GitHub Actions.
 
-<div style="position: relative; width: 100%; max-width: 640px; margin: 0 auto; overflow: hidden; background: #000; aspect-ratio: 16 / 9;">
-
-<img src="https://www.youtube.com/watch?v=UPAeZg14Hto" 
-       alt="YouTube Video Thumbnail" 
-       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; cursor: pointer;" 
-       onclick="this.outerHTML='<iframe width=\'640\' height=\'360\' src=\'https://www.youtube.com/watch?v=UPAeZg14Hto\' title=\'YouTube video player\' frameborder=\'0\' allow=\'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\' allowfullscreen style=\'position: absolute; top: 0; left: 0; width: 100%; height: 100%;\'></iframe>'">
-
-</div>
+<a href="https://www.youtube.com/watch?v=UPAeZg14Hto" target="_blank" rel="noopener noreferrer" style="display:block; position:relative; width:100%; max-width:640px; margin:0 auto; text-decoration:none;">
+<img src="https://img.youtube.com/vi/UPAeZg14Hto/hqdefault.jpg" alt="Watch this video on YouTube" style="display:block; width:100%; height:auto; border:0;">
+</a>
 
 > Did you know that we have a community Code of Conduct? Anyone is able
 > to view it in the `#code_of_conduct` Slack channel, under `Files`!

@@ -125,6 +125,17 @@
 
 #-------------------
 # Opportunities
+- expires: 2026-06-15
+  type: opportunity
+  title: "HICSS 2027 Call for Participation: Minitracks relevant to RSEs🤩"
+  preamble: |
+    The Hawaii International Conference on System Sciences (HICSS) invites submission of papers to its 60th annual conference, HICSS 2027, which will be held January 5-8, 2027 in Hawaii. HICSS solicits papers that emphasize advances in research and development in several areas of system sciences. As a premier interdisciplinary conference covering a wide range of topics 
+    in information systems and technology, two Minitracks at the conference appear particularly relevant to research software engineers (RSEs):
+    1. AI's impact on Software Engineering
+    2. SSustainable Software: Usable, Maintainable, and Reproducible
+  links:  |
+    Learn more at the HICSS [website](https://hicss.hawaii.edu/tracks-and-minitracks/software-technology/), and please reach out on Slack with any questions about HICSS
+
 - expires: 2026-12-31
   type: opportunity
   title: "Supercomputing and the Future of AI: Watch the Full Virtual Exchange Series On-Demand! 🤖"
