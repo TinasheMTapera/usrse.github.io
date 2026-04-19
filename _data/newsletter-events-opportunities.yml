@@ -122,6 +122,18 @@
   links: |
     For more information, visit: [dash.heliophysics.net](https://dash.heliophysics.net/) and [ihdea.net](https://ihdea.net/).
 
+- expires: 2026-10-23
+  type: event
+  title: "US-RSE Chicago Regional Meetup!🍃"
+  when: April 23, 2026, 5:30 PM - 7:00 PM CDT
+  where: Loyola University, Chicago, IL
+  preamble: |
+    Join us for the first Chicago Research Software Engineers (RSE) Meetup! This kickoff event is a casual, social gathering designed to bring together people across the Chicago area who are interested in the intersection of software and research.
+    We'll have pizza, light icebreakers, and plenty of time to meet others from universities, labs, and industry. We'll also include a few short, informal talks introducing the RSE community, what the role looks like in practice, and how you can get involved locally and nationally.
+    Whether you identify as an RSE, write code for research, are curious about the field, or just want to meet others working in similar spaces, this is a great place to start.
+    Come hang out, meet the community, and help shape the future of RSE in Chicago.
+  links: |
+    The event is being organized via Meetup.com, so please RSVP there if you plan to attend: [Chicago RSE Meetup](https://www.meetup.com/us-rse-chicago-regional-community/events/313402749/?eventOrigin=group_upcoming_events)
 
 #-------------------
 # Opportunities
@@ -132,9 +144,9 @@
     The Hawaii International Conference on System Sciences (HICSS) invites submission of papers to its 60th annual conference, HICSS 2027, which will be held January 5-8, 2027 in Hawaii. HICSS solicits papers that emphasize advances in research and development in several areas of system sciences. As a premier interdisciplinary conference covering a wide range of topics 
     in information systems and technology, two Minitracks at the conference appear particularly relevant to research software engineers (RSEs):
     1. AI's impact on Software Engineering
-    2. SSustainable Software: Usable, Maintainable, and Reproducible
+    2. Sustainable Software: Usable, Maintainable, and Reproducible
   links:  |
-    Learn more at the HICSS [website](https://hicss.hawaii.edu/tracks-and-minitracks/software-technology/), and please reach out on Slack with any questions about HICSS
+    Learn more at the HICSS [website](https://hicss.hawaii.edu/tracks-and-minitracks/software-technology/), and if you have any other questions, feel free to reach out to Sandra on Slack or [via email](mailto:sandra@us-rse.org)
 
 - expires: 2026-12-31
   type: opportunity

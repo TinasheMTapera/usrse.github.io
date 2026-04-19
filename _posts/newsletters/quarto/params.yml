@@ -12,7 +12,7 @@ sections:
   preamble: true # done
   headline: true # done
   conference: true # done
-  execupdate: false # none
+  execupdate: true # done
   scupdate: true # yay!
   orgmember: true # no changes, check back in june
   communityfunds: false

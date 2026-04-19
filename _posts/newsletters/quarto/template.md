@@ -7,20 +7,22 @@ Tinashe M. Tapera (Author & Editor), Sandra Gesing (Editor), Ian Cosden
   🔔](#bell-just-slack-me-whenever-bell)
 - [<span class="toc-section-number">2</span> 📣 Mark Your Calendars for
   USRSE’26! 📣](#mega-mark-your-calendars-for-usrse26-mega)
-- [<span class="toc-section-number">3</span> 🛞 Steering Committee
+- [<span class="toc-section-number">3</span> 📝 From the Executive Desk…
+  📝](#pencil-from-the-executive-desk-pencil)
+- [<span class="toc-section-number">4</span> 🛞 Steering Committee
   Updates 🛞](#wheel-steering-committee-updates-wheel)
-- [<span class="toc-section-number">4</span> 🤝 Organizational Founding
+- [<span class="toc-section-number">5</span> 🤝 Organizational Founding
   Membership
   🤝](#handshake-organizational-founding-membership-handshake)
-- [<span class="toc-section-number">5</span> 🗞️ Community News
+- [<span class="toc-section-number">6</span> 🗞️ Community News
   🗞️](#newspaper_roll-community-news-newspaper_roll)
-- [<span class="toc-section-number">6</span> 👀 Interesting Events and
+- [<span class="toc-section-number">7</span> 👀 Interesting Events and
   Opportunities 👀](#eyes-interesting-events-and-opportunities-eyes)
-- [<span class="toc-section-number">7</span> 📚 Featured Reads, Videos,
+- [<span class="toc-section-number">8</span> 📚 Featured Reads, Videos,
   and Podcasts 📚](#books-featured-reads-videos-and-podcasts-books)
-- [<span class="toc-section-number">8</span> 🏃 Get Involved!
+- [<span class="toc-section-number">9</span> 🏃 Get Involved!
   🏃](#running-get-involved-running)
-- [<span class="toc-section-number">9</span> 🧑‍💼 Recent Job Postings
+- [<span class="toc-section-number">10</span> 🧑‍💼 Recent Job Postings
   🧑‍💼](#office_worker-recent-job-postings-office_worker)
 
 <a name="top"></a>
@@ -197,6 +199,36 @@ information will be coming your way in the months ahead. Stay tuned at
 [us-rse.org/usrse26](https://us-rse.org/usrse26)!
 
 We’re looking forward to seeing you all in **San Jose**!
+
+------------------------------------------------------------------------
+
+## 📝 From the Executive Desk… 📝
+
+<a name="executive-desk"></a> <!-- Sandra's News -->
+
+In March, I attended Capitol Hill coffee hours with Senator Dick Durbin
+and Senator Tammy Duckworth, where I had the opportunity to introduce
+the mission and growing impact of the US Research Software Engineer
+(US-RSE) Association and take an important step toward raising awareness
+of the critical role of research software in advancing U.S. science. In
+addition, I met with staff from Senator Alex Padilla for an in-depth
+discussion; they expressed strong interest and requested follow-up
+materials — both quantitative and qualitative data and insights — to
+better understand the needs and contributions of the RSE community.
+While these meetings may appear inconsequential, they’re seedlings for
+longer-term engagement between the RSE community and key stakeholders in
+Washington, DC, and we are encouraged by the fact that our message is
+starting to reach key audiences in government.
+
+<p align="center">
+
+<img src="/assets/img/newsletter-202604/20260312-donnell-390.jpg" alt="Sandra with Senators Duckworth & Durbin" style="width: 750px; height: auto;"/>
+</p>
+
+<p align="center">
+
+<img src="/assets/img/newsletter-202604/20260310_162030.jpg" alt="Sandra with Senator Padilla Staff Member" style="width: 750px; height: auto;"/>
+</p>
 
 ------------------------------------------------------------------------
 
