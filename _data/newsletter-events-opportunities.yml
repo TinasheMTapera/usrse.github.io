@@ -47,6 +47,26 @@
   links: |
     Link: Join [Zoom Meeting](https://lbnl.zoom.us/j/91963632563?pwd=Rbni2b1chhxhb4jHVtmEzrEWbZuee7.1)
 
+# - expires: 2026-04-13
+#   type: event
+#   title: National Laboratories Sustainable Scientific Software Conference: Introduction to Agile Development
+#   when: Tuesday, April 14th, 12:00 PM - 1:00 PM MDT
+#   where: My house
+#   preamble: |
+#     The NLS³C CoP fosters collaboration among individuals interacting with software repositories across the U.S. National Labs complex. Our mission is to enhance the development culture by promoting best practices, knowledge sharing, and standards that improve quality and sustainability. We empower developers, project managers, and decision-makers through valuable resources, including monthly webinars. By cultivating a network of early adopters, we aim to drive culture change and transform the software landscape within the National Labs.
+#   links: |
+#     Registration:  [Click here](https://events.gcc.teams.microsoft.com/event/6c39cfd8-2974-4fe8-8d1c-ed26a052b337@7ccb5a20-a303-498c-b0c1-29007381b574)
+
+- expires: 2026-04-16
+  type: event
+  title: "UX Working Group Meeting: Making Interviewing Accessible"
+  when: Tuesday, April 16th, 4:00 PM EST
+  where: Zoom
+  preamble: |
+    Our next meeting will be a joint meeting between us and #wg-diversity-equity-inclusion: Making Interviewing Accessible! Join us to level up your user interview game. Darren Butler will lead us in a hands-on workshop on accessible UX interview techniques. Hope to see you there!
+  links: |
+    Link: Join [Zoom Meeting](https://lbnl.zoom.us/j/91963632563?pwd=Rbni2b1chhxhb4jHVtmEzrEWbZuee7.1)
+
 - expires: 2026-04-01
   type: event
   title: Improving Scientific Software Conference 2026
@@ -290,3 +310,4 @@
     Thank you to the Alfred P. Sloan Foundation for generously supporting this program and helping us grow the next generation of research software engineering talent.
   links: |
     Learn more and apply by March 31, 2026 at: [Princeton RSE Summer Fellowship](https://researchcomputing.princeton.edu/services/research-software-engineering/2026-research-software-engineering-summer-fellows-program)
+

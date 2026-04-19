@@ -1,31 +1,48 @@
-# US-RSE April 2026 Newsletter
-# US-RSE April 2026 Newsletter
-Tinashe M. Tapera (Author & Editor), Sandra Gesing (Editor), Ian Cosden
-(Editor)
-2026-04-13
+---
+layout: post
+title: "US-RSE April 2026 Newsletter"
+subtitle: "🤳 Just Hit Me Up On Slack 🤳"
+category: newsletter
+tags: [newsletter, April]
+date: 2026-04-07 00:00:00 -0400
+author: "Tinashe M. Tapera (Author & Editor), Sandra Gesing (Editor), Ian Cosden (Editor)"
+image: "/assets/img/newsletter-202604/austin-distel-gUIJ0YszPig-unsplash.jpg"
+img_alttext: "Slack message with team communicating and collaborating in app on desktop and mobile."
+next_meeting_date: Thursday, May 14, 2026, 12:00PM EST
+sections:
+  preamble: true # done
+  headline: true # done
+  conference: true # done
+  execupdate: false # none
+  scupdate: true # yay!
+  orgmember: true # no changes, check back in june
+  communityfunds: false
+  news: true # add community call summary
+  events: true # recheck on friday
+  reads: true
+  involved: true
+  jobs: true
 
-- [<span class="toc-section-number">1</span> 🔔 Just Slack Me, Whenever!
-  🔔](#bell-just-slack-me-whenever-bell)
+---
+
 - [<span class="toc-section-number">1</span> 🔔 Just Slack Me, Whenever!
   🔔](#bell-just-slack-me-whenever-bell)
 - [<span class="toc-section-number">2</span> 📣 Mark Your Calendars for
   USRSE’26! 📣](#mega-mark-your-calendars-for-usrse26-mega)
-- [<span class="toc-section-number">3</span> 📝 From the Executive Desk…
-  📝](#pencil-from-the-executive-desk-pencil)
-- [<span class="toc-section-number">4</span> 🛞 Steering Committee
+- [<span class="toc-section-number">3</span> 🛞 Steering Committee
   Updates 🛞](#wheel-steering-committee-updates-wheel)
-- [<span class="toc-section-number">5</span> 🤝 Organizational Founding
+- [<span class="toc-section-number">4</span> 🤝 Organizational Founding
   Membership
   🤝](#handshake-organizational-founding-membership-handshake)
-- [<span class="toc-section-number">6</span> 🗞️ Community News
+- [<span class="toc-section-number">5</span> 🗞️ Community News
   🗞️](#newspaper_roll-community-news-newspaper_roll)
-- [<span class="toc-section-number">7</span> 👀 Interesting Events and
+- [<span class="toc-section-number">6</span> 👀 Interesting Events and
   Opportunities 👀](#eyes-interesting-events-and-opportunities-eyes)
-- [<span class="toc-section-number">8</span> 📚 Featured Reads, Videos,
+- [<span class="toc-section-number">7</span> 📚 Featured Reads, Videos,
   and Podcasts 📚](#books-featured-reads-videos-and-podcasts-books)
-- [<span class="toc-section-number">9</span> 🏃 Get Involved!
+- [<span class="toc-section-number">8</span> 🏃 Get Involved!
   🏃](#running-get-involved-running)
-- [<span class="toc-section-number">10</span> 🧑‍💼 Recent Job Postings
+- [<span class="toc-section-number">9</span> 🧑‍💼 Recent Job Postings
   🧑‍💼](#office_worker-recent-job-postings-office_worker)
 
 <a name="top"></a>
@@ -40,11 +57,10 @@ we’re going to discuss what Slack is, how it came about, and how US-RSE
 members use it to connect, grow, and make real, lasting impact beyond
 just their code editors.
 
-> Question: Who do you think is the chattiest Slack user in US-RSE?
-> Place your bets NOW! 😉
+Question: Who do you think is the chattiest Slack user in US-RSE? Place
+your bets NOW!
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/img/newsletter-202604/austin-distel-gUIJ0YszPig-unsplash.jpg" alt="Slack message with team communicating and collaborating in app on desktop and mobile." style="width: 750px; height: auto;">
   <img src="{{ site.baseurl }}/assets/img/newsletter-202604/austin-distel-gUIJ0YszPig-unsplash.jpg" alt="Slack message with team communicating and collaborating in app on desktop and mobile." style="width: 750px; height: auto;">
 </p>
 
@@ -53,101 +69,9 @@ In this issue:
 ------------------------------------------------------------------------
 
 ## 🔔 Just Slack Me, Whenever! 🔔
-## 🔔 Just Slack Me, Whenever! 🔔
 
 <a name="headline"></a>
 
-In 2012, software engineer Stewart Butterfield was hard at work on what
-he believed to be the next big thing in MMORPGs. The game, called
-“Glitch,” ended up being a commercial flop, and Butterfield and his team
-needed to pivot quickly to make the most of the 6 million dollars they
-had left from investor Ben Horowitz. Instead of throwing in the towel,
-Butterfield called Horowitz on the phone and proposed a new idea.
-Throughout the development process, Butterfield told Horowitz, the team
-of engineers had developed a novel instant messaging system to
-facilitate commnunication in-game, and in the process of [eating their
-own dog food](https://en.wikipedia.org/wiki/Eating_your_own_dog_food),
-discovered that the system worked really well for managing their work
-communications, too. Butterfield proposed that their company, then
-called Tiny Speck, pivot to focus on building a new product based on
-this instant messaging system. The result was the creation of Slack,
-which has since become one of the most popular communication platforms
-in the world.
-
-Today, Slack powers communication and collaboration for millions of
-users and businesses, and has transformed the way teams collaborate and
-communicate. At US-RSE, we of course use Slack to manage internal
-communications between leadership teams, but more importantly, it has
-grown to become the virtual landing page for our community. At present,
-there are over 140 individual channels dating back to 2018, with over
-3100 unique member accounts participating in the conversation. Some days
-see over 500 messages going back and forth between members and channels:
-
-<p align="center">
-
-<img src="/assets/img/newsletter-202604/messages.png" alt="Plot of message volume in Slack" style="width: 750px; height: auto;"/>
-</p>
-
-One unique feature of Slack is the ability to create channels, which act
-as virtual rooms dedicated to specific topics, projects, or interests.
-These channels can be private or public, allowing teams to organize
-conversations by priority, relevance, and interest. At US-RSE, we also
-have meta-grouping channels, such as “Working Groups,” (`#wg-`) and
-“Regional Groups,” (`#rg-`), which serve as hubs for specific
-communities within our larger organization. For example, the
-`#wg-code-review` and `wg-diversity-equity-inclusion` channels are
-spaces for members to discuss and collaborate on code review practices
-and DEI initiatives, respectively. The `#rg-nyc` channel serves as a hub
-for members located in and around the greater New York City area, where
-they plan get-togethers and other in-person events. Participating in
-public channels is a great way to stay informed about what’s going on in
-the community, and importantly, it allows everyone in the Slack channel
-to follow the conversation and chime in when they have something to
-contribute. This helps us all, “[learn with the garage door
-open](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu),”
-increasing the accessibility of our conversations and the impact of our
-work.
-
-<p align="center">
-
-<img src="/assets/img/newsletter-202604/channels.png" alt="Plot of channel activity in Slack" style="width: 750px; height: auto;"/>
-</p>
-
-It may be obvious that the `#general` channel has the most messages, but
-did you know that in a one-year span, some of the most active channels
-include `#random`, `#events`, and `#wg-ux`? The most popular
-language-specific channel in the Slack was, of course, `#python`, and
-the most active regional group channel was `#rg-north-carolina`.
-
-<p align="center">
-
-<img src="/assets/img/newsletter-202604/top_channels.png" alt="Table of top channels in Slack" style="width: 750px; height: auto;"/>
-</p>
-
-And while we as RSEs may still be evaluating AI for its usefulness in
-our work, Slack’s built-in AI summarization tool tells us that there are
-a wide array of conversations happening in our Slack, from conference
-planning, to project management, to hiring and funding announcements.
-
-<p align="center">
-
-<img src="/assets/img/newsletter-202604/slack.gif" alt="Screen capture of Slack's AI summarization tool" style="width: 750px; height: auto;"/>
-</p>
-
-If you haven’t already, we encourage you to join our Slack and get
-involved in the conversation. It’s a great way to stay informed about
-what’s going on in the community, connect with other members, and
-contribute to the ongoing work of US-RSE. You can get onto our Slack by
-joining US-RSE free, [here](https://us-rse.org/join/).
-
-PS: Just for fun, here’s a table of the top 9 chatty RSEs in our Slack:
-
-<p align="center">
-
-<img src="/assets/img/newsletter-202604/top_members.png" alt="Table of top users in Slack" style="width: 750px; height: auto;"/>
-</p>
-
-See you on Slack!
 In 2012, software engineer Stewart Butterfield was hard at work on what
 he believed to be the next big thing in MMORPGs. The game, called
 “Glitch,” ended up being a commercial flop, and Butterfield and his team
@@ -247,11 +171,9 @@ See you on Slack!
 <a name="conference2026"></a>
 
 Save the date for USRSE’26: **Advancing Science in the Age of AI**
-Save the date for USRSE’26: **Advancing Science in the Age of AI**
 
 We’re thrilled to announce that USRSE’26 will be held at the San Jose
 Marriott from October 19-21, 2026 in San Jose, California, with the
-theme **“Advancing Science in the Age of AI”.**
 theme **“Advancing Science in the Age of AI”.**
 
 General chairs have been appointed to lead each of the core committees
@@ -262,13 +184,9 @@ chairs reach out for volunteers for these committee positions.
 
 **What’s next?**
 
-- **Call for Proposals:** Submit your work via papers, short talks,
-  BoFs, workshops, or posters. [View
-  More](https://us-rse.org/usrse26/participate/)
-- **Call for Reviewers:** Play a key role in creating a dynamic and
-  varied technical program that will appeal to conference attendees from
-  all RSE backgrounds. [Apply to
-  Review](https://forms.gle/hDGsK52sJFqUA2MA7)
+- **Call for Proposals:** The Call for Proposals will be announced later
+  this month. Additional upcoming milestones will be announced on the
+  official USRSE’26 site over the next few months.
 - **Committee Formation:** Sub‑teams will be formed shortly; be on the
   lookout for an email from a perspective committee chair with details.
 - **Stay Informed:** Regular updates will be posted at
@@ -297,36 +215,6 @@ information will be coming your way in the months ahead. Stay tuned at
 [us-rse.org/usrse26](https://us-rse.org/usrse26)!
 
 We’re looking forward to seeing you all in **San Jose**!
-
-------------------------------------------------------------------------
-
-## 📝 From the Executive Desk… 📝
-
-<a name="executive-desk"></a> <!-- Sandra's News -->
-
-In March, I attended Capitol Hill coffee hours with Senator Dick Durbin
-and Senator Tammy Duckworth, where I had the opportunity to introduce
-the mission and growing impact of the US Research Software Engineer
-(US-RSE) Association and take an important step toward raising awareness
-of the critical role of research software in advancing U.S. science. In
-addition, I met with staff from Senator Alex Padilla for an in-depth
-discussion; they expressed strong interest and requested follow-up
-materials — both quantitative and qualitative data and insights — to
-better understand the needs and contributions of the RSE community.
-While these meetings may appear inconsequential, they’re seedlings for
-longer-term engagement between the RSE community and key stakeholders in
-Washington, DC, and we are encouraged by the fact that our message is
-starting to reach key audiences in government.
-
-<p align="center">
-
-<img src="/assets/img/newsletter-202604/20260312-donnell-390.jpg" alt="Sandra with Senators Duckworth & Durbin" style="width: 750px; height: auto;"/>
-</p>
-
-<p align="center">
-
-<img src="/assets/img/newsletter-202604/20260310_162030.jpg" alt="Sandra with Senator Padilla Staff Member" style="width: 750px; height: auto;"/>
-</p>
 
 ------------------------------------------------------------------------
 
@@ -424,9 +312,14 @@ recent **Education & Training Working Group** meeting, where **Andres
 Rios-Tascon** presented his tutorial on Continuous Integration and
 Continuous Delivery (CI/CD) with GitHub Actions.
 
-<a href="https://www.youtube.com/watch?v=UPAeZg14Hto" target="_blank" rel="noopener noreferrer" style="display:block; position:relative; width:100%; max-width:640px; margin:0 auto; text-decoration:none;">
-<img src="https://img.youtube.com/vi/UPAeZg14Hto/hqdefault.jpg" alt="Watch this video on YouTube" style="display:block; width:100%; height:auto; border:0;">
-</a>
+<div style="position: relative; width: 100%; max-width: 640px; margin: 0 auto; overflow: hidden; background: #000; aspect-ratio: 16 / 9;">
+
+<img src="https://www.youtube.com/watch?v=UPAeZg14Hto" 
+       alt="YouTube Video Thumbnail" 
+       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; cursor: pointer;" 
+       onclick="this.outerHTML='<iframe width=\'640\' height=\'360\' src=\'https://www.youtube.com/watch?v=UPAeZg14Hto\' title=\'YouTube video player\' frameborder=\'0\' allow=\'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\' allowfullscreen style=\'position: absolute; top: 0; left: 0; width: 100%; height: 100%;\'></iframe>'">
+
+</div>
 
 > Did you know that we have a community Code of Conduct? Anyone is able
 > to view it in the `#code_of_conduct` Slack channel, under `Files`!
@@ -453,7 +346,6 @@ different edge cases that can come up when handling them.
 </div>
 -->
 
-Our next meeting is scheduled for Thursday, May 14, 2026, 12:00PM EST.
 Our next meeting is scheduled for Thursday, May 14, 2026, 12:00PM EST.
 We hope to see you there!
 
@@ -525,7 +417,6 @@ the `#newsletters` channel!
 {% assign other = refs | where: "type", "webpage" %}
 
 {% if other.size > 0 %}
-### 📇 Blog Posts, Videos, & Other Reads
 ### 📇 Blog Posts, Videos, & Other Reads
 {% for ref in other %}
 {% include citation.html ref=ref %}
