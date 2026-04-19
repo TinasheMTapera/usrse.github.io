@@ -22,7 +22,7 @@ back to 2018, with over 3100 unique member accounts participating in the convers
 days see over 500 messages going back and forth between members and channels:
 
 <p align="center">
-    <img src="/assets/img/newsletter-202604/messages.png" alt="Plot of message volume in Slack" style="width: 750px; height: auto;"/>
+    <img src="{{ site.baseurl }}/assets/img/newsletter-202604/messages.png" alt="Plot of message volume in Slack" style="width: 750px; height: auto;"/>
 </p>
 
 One unique feature of Slack is the ability to create channels, which act as virtual rooms
@@ -40,7 +40,7 @@ us all, "[learn with the garage door open](https://notes.andymatuschak.org/About
 impact of our work.
 
 <p align="center">
-    <img src="/assets/img/newsletter-202604/channels.png" alt="Plot of channel activity in Slack" style="width: 750px; height: auto;"/>
+    <img src="{{ site.baseurl }}/assets/img/newsletter-202604/channels.png" alt="Plot of channel activity in Slack" style="width: 750px; height: auto;"/>
 </p>
 
 It may be obvious that the `#general` channel has the most messages, but did you know that
@@ -49,7 +49,7 @@ The most popular language-specific channel in the Slack was, of course, `#python
 active regional group channel was `#rg-north-carolina`.
 
 <p align="center">
-    <img src="/assets/img/newsletter-202604/top_channels.png" alt="Table of top channels in Slack" style="width: 750px; height: auto;"/>
+    <img src="{{ site.baseurl }}/assets/img/newsletter-202604/top_channels.png" alt="Table of top channels in Slack" style="width: 750px; height: auto;"/>
 </p>
 
 And while we as RSEs may still be evaluating AI for its usefulness in our work, Slack's built-in AI
@@ -57,7 +57,7 @@ summarization tool tells us that there are a wide array of conversations happeni
 from conference planning, to project management, to hiring and funding announcements.
 
 <p align="center">
-    <img src="/assets/img/newsletter-202604/slack.gif" alt="Screen capture of Slack's AI summarization tool" style="width: 750px; height: auto;"/>
+    <img src="{{ site.baseurl }}/assets/img/newsletter-202604/slack.gif" alt="Screen capture of Slack's AI summarization tool" style="width: 750px; height: auto;"/>
 </p>
 
 If you haven't already, we encourage you to join our Slack and get involved in the conversation. It's 
@@ -67,7 +67,7 @@ contribute to the ongoing work of US-RSE. You can get onto our Slack by joining 
 PS: Just for fun, here's a table of the top 9 chatty RSEs in our Slack:
 
 <p align="center">
-    <img src="/assets/img/newsletter-202604/top_members.png" alt="Table of top users in Slack" style="width: 750px; height: auto;"/>
+    <img src="{{ site.baseurl }}/assets/img/newsletter-202604/top_members.png" alt="Table of top users in Slack" style="width: 750px; height: auto;"/>
 </p>
 
 See you on Slack!

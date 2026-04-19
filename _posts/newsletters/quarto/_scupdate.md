@@ -22,7 +22,7 @@ following this up with an in-person working session at the end of this month, wh
 meet for two days in Chicago with the Executive Director in a concentrated effort
 to finalize our recommendations for governance model updates. 
 <p align="center">
-    <img src="/assets/img/newsletter-202604/sc-update-image.png" alt="Screen capture of Steering Committee meeting on Zoom" style="width: 750px; height: auto;"/>
+    <img src="{{ site.baseurl }}/assets/img/newsletter-202604/sc-update-image.png" alt="Screen capture of Steering Committee meeting on Zoom" style="width: 750px; height: auto;"/>
 </p>
 
 -------------------

@@ -102,7 +102,7 @@ see over 500 messages going back and forth between members and channels:
 
 <p align="center">
 
-<img src="/assets/img/newsletter-202604/messages.png" alt="Plot of message volume in Slack" style="width: 750px; height: auto;"/>
+<img src="{{ site.baseurl }}/assets/img/newsletter-202604/messages.png" alt="Plot of message volume in Slack" style="width: 750px; height: auto;"/>
 </p>
 
 One unique feature of Slack is the ability to create channels, which act
@@ -127,7 +127,7 @@ work.
 
 <p align="center">
 
-<img src="/assets/img/newsletter-202604/channels.png" alt="Plot of channel activity in Slack" style="width: 750px; height: auto;"/>
+<img src="{{ site.baseurl }}/assets/img/newsletter-202604/channels.png" alt="Plot of channel activity in Slack" style="width: 750px; height: auto;"/>
 </p>
 
 It may be obvious that the `#general` channel has the most messages, but
@@ -138,7 +138,7 @@ the most active regional group channel was `#rg-north-carolina`.
 
 <p align="center">
 
-<img src="/assets/img/newsletter-202604/top_channels.png" alt="Table of top channels in Slack" style="width: 750px; height: auto;"/>
+<img src="{{ site.baseurl }}/assets/img/newsletter-202604/top_channels.png" alt="Table of top channels in Slack" style="width: 750px; height: auto;"/>
 </p>
 
 And while we as RSEs may still be evaluating AI for its usefulness in
@@ -148,7 +148,7 @@ planning, to project management, to hiring and funding announcements.
 
 <p align="center">
 
-<img src="/assets/img/newsletter-202604/slack.gif" alt="Screen capture of Slack's AI summarization tool" style="width: 750px; height: auto;"/>
+<img src="{{ site.baseurl }}/assets/img/newsletter-202604/slack.gif" alt="Screen capture of Slack's AI summarization tool" style="width: 750px; height: auto;"/>
 </p>
 
 If you haven’t already, we encourage you to join our Slack and get
@@ -161,7 +161,7 @@ PS: Just for fun, here’s a table of the top 9 chatty RSEs in our Slack:
 
 <p align="center">
 
-<img src="/assets/img/newsletter-202604/top_members.png" alt="Table of top users in Slack" style="width: 750px; height: auto;"/>
+<img src="{{ site.baseurl }}/assets/img/newsletter-202604/top_members.png" alt="Table of top users in Slack" style="width: 750px; height: auto;"/>
 </p>
 
 See you on Slack!
@@ -244,7 +244,7 @@ starting to reach key audiences in government.
 
 <p align="center">
 
-<img src="/assets/img/newsletter-202604/20260312-donnell-390.jpg" alt="Sandra with Senators Duckworth & Durbin" style="width: 750px; height: auto;"/>
+<img src="{{ site.baseurl }}/assets/img/newsletter-202604/20260312-donnell-390.jpg" alt="Sandra with Senators Duckworth & Durbin" style="width: 750px; height: auto;"/>
 </p>
 
 <p align="center">
@@ -284,7 +284,7 @@ the Executive Director in a concentrated effort to finalize our
 recommendations for governance model updates.
 <p align="center">
 
-<img src="/assets/img/newsletter-202604/sc-update-image.png" alt="Screen capture of Steering Committee meeting on Zoom" style="width: 750px; height: auto;"/>
+<img src="{{ site.baseurl }}/assets/img/newsletter-202604/sc-update-image.png" alt="Screen capture of Steering Committee meeting on Zoom" style="width: 750px; height: auto;"/>
 </p>
 
 ------------------------------------------------------------------------

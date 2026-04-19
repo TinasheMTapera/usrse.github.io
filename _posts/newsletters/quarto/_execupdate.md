@@ -18,7 +18,7 @@ fact that our message is starting to reach key audiences in government.
 
 
 <p align="center">
-    <img src="/assets/img/newsletter-202604/20260312-donnell-390.jpg" alt="Sandra with Senators Duckworth & Durbin" style="width: 750px; height: auto;"/>
+    <img src="{{ site.baseurl }}/assets/img/newsletter-202604/20260312-donnell-390.jpg" alt="Sandra with Senators Duckworth & Durbin" style="width: 750px; height: auto;"/>
 </p>
 
 <p align="center">
