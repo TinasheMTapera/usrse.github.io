@@ -227,7 +227,7 @@ starting to reach key audiences in government.
 
 <p align="center">
 
-<img src="/assets/img/newsletter-202604/20260310_162030.jpg" alt="Sandra with Senator Padilla Staff Member" style="width: 750px; height: auto;"/>
+<img src="{{ site.baseurl }}/assets/img/newsletter-202604/20260310_162030.jpg" alt="Sandra with Senator Padilla Staff Member" style="width: 750px; height: auto;"/>
 </p>
 
 ------------------------------------------------------------------------
