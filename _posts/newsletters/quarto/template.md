@@ -60,7 +60,7 @@ had left from investor Ben Horowitz. Instead of throwing in the towel,
 Butterfield called Horowitz on the phone and proposed a new idea.
 Throughout the development process, Butterfield told Horowitz, the team
 of engineers had developed a novel instant messaging system to
-facilitate commnunication in-game, and in the process of [eating their
+facilitate communication in-game, and in the process of [eating their
 own dog food](https://en.wikipedia.org/wiki/Eating_your_own_dog_food),
 discovered that the system worked really well for managing their work
 communications, too. Butterfield proposed that their company, then
