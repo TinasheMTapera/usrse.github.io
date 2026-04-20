@@ -64,12 +64,6 @@ If you haven't already, we encourage you to join our Slack and get involved in t
 a great way to stay informed about what's going on in the community, connect with other members, and 
 contribute to the ongoing work of US-RSE. You can get onto our Slack by joining US-RSE free, [here](https://us-rse.org/join/).
 
-PS: Just for fun, here's a table of the top 9 chatty RSEs in our Slack:
-
-<p align="center">
-    <img src="{{ site.baseurl }}/assets/img/newsletter-202604/top_members.png" alt="Table of top users in Slack" style="width: 750px; height: auto;"/>
-</p>
-
 See you on Slack!
 
 ------------

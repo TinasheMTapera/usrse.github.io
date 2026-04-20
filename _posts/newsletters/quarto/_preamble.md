@@ -4,5 +4,3 @@ primary platform for instant messaging. Most people consider Slack a necessary b
 workplace, having taken the place of phone calls, fax, pagers, and email. But is there more to
 Slack than annoying notifications? Today we're going to discuss what Slack is, how it came about,
 and how US-RSE members use it to connect, grow, and make real, lasting impact beyond just their code editors.
-
-> Question: Who do you think is the chattiest Slack user in US-RSE? Place your bets NOW! 😉
