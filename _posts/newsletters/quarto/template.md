@@ -37,9 +37,6 @@ we’re going to discuss what Slack is, how it came about, and how US-RSE
 members use it to connect, grow, and make real, lasting impact beyond
 just their code editors.
 
-> Question: Who do you think is the chattiest Slack user in US-RSE?
-> Place your bets NOW! 😉
-
 <p align="center">
   <img src="{{ site.baseurl }}/assets/img/newsletter-202604/austin-distel-gUIJ0YszPig-unsplash.jpg" alt="Slack message with team communicating and collaborating in app on desktop and mobile." style="width: 750px; height: auto;">
 </p>
@@ -135,13 +132,6 @@ what’s going on in the community, connect with other members, and
 contribute to the ongoing work of US-RSE. You can get onto our Slack by
 joining US-RSE free, [here](https://us-rse.org/join/).
 
-PS: Just for fun, here’s a table of the top 9 chatty RSEs in our Slack:
-
-<p align="center">
-
-<img src="{{ site.baseurl }}/assets/img/newsletter-202604/top_members.png" alt="Table of top users in Slack" style="width: 750px; height: auto;"/>
-</p>
-
 See you on Slack!
 
 ------------------------------------------------------------------------
@@ -156,11 +146,11 @@ We’re thrilled to announce that USRSE’26 will be held at the San Jose
 Marriott from October 19-21, 2026 in San Jose, California, with the
 theme **“Advancing Science in the Age of AI”.**
 
-General chairs have been appointed to lead each of the core committees
-for USRSE’26. These chairs have begun assembling sub‑teams from the pool
-of volunteers who expressed interest in supporting the respective areas.
-If you were not selected for a chair position, please stay tuned, as
-chairs reach out for volunteers for these committee positions.
+Chairs have been appointed to lead each of the core committees for
+USRSE’26. These chairs have begun assembling sub‑teams from the pool of
+volunteers who expressed interest in supporting the respective areas. If
+you were not selected for a chair position, please stay tuned, as chairs
+reach out for volunteers for these committee positions.
 
 **What’s next?**
 
