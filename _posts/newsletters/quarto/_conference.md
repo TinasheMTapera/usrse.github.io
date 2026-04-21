@@ -8,7 +8,7 @@ We’re thrilled to announce that USRSE’26 will be held at the San Jose
 Marriott from October 19-21, 2026 in San Jose, California, with the 
 theme **"Advancing Science in the Age of AI".**
 
-General chairs have been appointed to lead each of the core committees 
+Chairs have been appointed to lead each of the core committees 
 for USRSE’26. These chairs have begun assembling sub‑teams from the 
 pool of volunteers who expressed interest in supporting the respective 
 areas. If you were not selected for a chair position, please stay tuned,
