@@ -46,23 +46,6 @@ page for more details!
 
 <h2>Active Affinity Groups</h2>
 
-<h3><a href="{{ site.baseurl }}/ag/rse-gln/">RSE Group Leaders' Network</a></h3>
-
-The RSE Group Leaders’ Network (RSE-GLN) is a group of individuals leading RSE teams
-who meet to support their peers with the challenges of leading RSE groups.  
-
-The primary membership is for those who currently lead a team and have, or are
-actively in the process of hiring, at least one direct report; additional members
-may be invited, such as those who have been in leadership positions in the past. 
-This is to ensure that members have a network of peers in similar situations who are
-facing similar challenges.
-
-The RSE-GLN also seeks to support aspiring RSE Group Leaders through a separate
-mentorship and development network.  The Aspiring RSE-GLN is open to those looking to
-build RSE teams at their institution or move into RSE group leadership roles.  There
-are no formal requirements, but those with the experience and qualifications to take
-on leadership roles will likely benefit more than early career RSEs. 
-
 <h3><a href="{{ site.baseurl }}/ag/neuro-rse/">Neuro-RSE</a></h3>
 
 Neuroscience RSE (Neuro-RSE) is an affinity group for those working on research
@@ -89,6 +72,10 @@ The North Carolina Regional Group connects US-RSE members in North Carolina and 
 <h3><a href="{{ site.baseurl }}/ag/rg-stl/">St. Louis Metro Regional Group</a></h3>
 
 The St. Louis Metro Regional Group connects US-RSE members in the St. Louis Metro region and organizes local events.
+
+<h3><a href="{{ site.baseurl }}/ag/rg-nyc/">New York City Regional Group</a></h3>
+
+The New York City Regional Group connects US-RSE members in/around NYC and organizes local events.
 
 <h3><a href="{{ site.baseurl }}/ag-institutional-rse-networking/">Institutional RSE Networking</a></h3>
 
